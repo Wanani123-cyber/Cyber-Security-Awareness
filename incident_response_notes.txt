@@ -1,3 +1,4 @@
+
 =====================================================
 CYBERSECURITY INCIDENT REPORTING CHEATSHEET
 =====================================================
@@ -7,3 +8,5 @@ CYBERSECURITY INCIDENT REPORTING CHEATSHEET
    - Email: soc-alert@zuluglobal.com
    - Hotline: +1 (800) 555-0199
 4. Record exact error messages, suspicious file paths, or external links clicked.
+git add incident_response_notes.txt
+git commit -m "Add incident response contact and triage notes"
