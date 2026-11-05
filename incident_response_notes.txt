@@ -1,1 +1,9 @@
-
+=====================================================
+CYBERSECURITY INCIDENT REPORTING CHEATSHEET
+=====================================================
+1. Isolate the infected endpoint immediately (Disconnect network/Wi-Fi).
+2. Do NOT power off or reboot the host machine (preserves volatile RAM evidence).
+3. Report the incident to the Security Operations Centre (SOC):
+   - Email: soc-alert@zuluglobal.com
+   - Hotline: +1 (800) 555-0199
+4. Record exact error messages, suspicious file paths, or external links clicked.
